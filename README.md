@@ -21,8 +21,6 @@ Todo gracias al bootcamp de Henry!
 
 -:star2: Me encantaría algun día poder comunicar mis conocimientos y ayudar a quienes recién ingresan en este mundo del desarrollo web :smile:
 
--:star2: Actualmente me encuentro leyendo y aprendiendo Typescript y React Native (si, me encanta el front! :) )
-
 -:star2: Busco expandir mis conocimientos y colaborar con equipos de trabajo.
 
 -:star2: Pueden encontrarme en LinkedIn: 
