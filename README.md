@@ -26,3 +26,7 @@ Todo gracias al bootcamp de Henry!
 -:star2: Pueden encontrarme en LinkedIn: 
 
 -:sun_with_face: [LinkedIn](linkedin.com/in/candela-torrez-6b0b69204)
+
+-:star2: Si te interesa mi forma de trabajo comunicate conmigo por email: 
+
+-:sun_with_face: candelatorrez99@gmail.com
