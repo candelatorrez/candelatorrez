@@ -1,6 +1,6 @@
 <h1> Hola, Soy Candela Torrez :smile: </h1>
 
-##Fullstack Web Developer, proveniente del bootcamp Soy Henry :yellow_heart:! 
+##Fullstack Web Developer :yellow_heart:! 
 
 
 Quiero mostrar un poco de info sobre mi!:
@@ -15,9 +15,9 @@ Quiero mostrar un poco de info sobre mi!:
 ![myImage](https://user-images.githubusercontent.com/67989505/179308544-bf7fd3b4-5789-48a6-8a97-4ffa6b34a42c.png)
 ![myImage](https://user-images.githubusercontent.com/67989505/179308549-ea733cd5-3dd5-40cd-9672-157847157840.png)
 
-Todo gracias al bootcamp de Henry!
+y muchas tecnologías más. Además poseo amplia experiencia en trabajos internos a la empresa tanto en backend como en frontend relacionados al entorno de CX, lo que me permite enfocarme en la calidad de codigo y la experiencia del usuario.
 
--:star2: Especialmente me gusta mucho CSS y React js.
+-:star2: Especialmente me gusta mucho React js y Go.
 
 -:star2: Me encantaría algun día poder comunicar mis conocimientos y ayudar a quienes recién ingresan en este mundo del desarrollo web :smile:
 
