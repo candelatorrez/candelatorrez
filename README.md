@@ -48,8 +48,6 @@ Integración de LLMs con Python y Node.js en herramientas y flujos internos
 🎓 Formación
 Licenciatura en Sistemas · UNGS · 2023 – Actualidad
 Professional Developer · Digital House · 2025
-📌 Proyectos destacados
-<!-- Fijá acá tus mejores repos. Ejemplo de formato: --> <!-- ### 🔹 Nombre del proyecto Descripción en una línea de qué resuelve. `React` `TypeScript` `Go` `PostgreSQL` · [Ver repo](link) -->
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&hide_border=true" alt="Top lenguajes"/> </p>
+
+
 <p align="center"> 💬 ¿Tenés un proyecto o una oportunidad? <b><a href="mailto:candelatorrez99@gmail.com">Escribime</a></b> </p>
